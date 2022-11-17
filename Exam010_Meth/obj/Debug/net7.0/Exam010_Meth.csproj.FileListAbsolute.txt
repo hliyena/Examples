@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\bin\Debug\net7.0\Exam010_Meth.exe
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\bin\Debug\net7.0\Exam010_Meth.deps.json
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\bin\Debug\net7.0\Exam010_Meth.runtimeconfig.json
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\bin\Debug\net7.0\Exam010_Meth.dll
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\bin\Debug\net7.0\Exam010_Meth.pdb
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.dll
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\refint\Exam010_Meth.dll
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.pdb
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\Exam010_Meth.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam010_Meth\obj\Debug\net7.0\ref\Exam010_Meth.dll
