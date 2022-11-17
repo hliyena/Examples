@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\bin\Debug\net7.0\Exam009_Aray.exe
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\bin\Debug\net7.0\Exam009_Aray.deps.json
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\bin\Debug\net7.0\Exam009_Aray.runtimeconfig.json
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\bin\Debug\net7.0\Exam009_Aray.dll
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\bin\Debug\net7.0\Exam009_Aray.pdb
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.dll
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\refint\Exam009_Aray.dll
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.pdb
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\Exam009_Aray.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Prog\Examples\Exam009_Aray\obj\Debug\net7.0\ref\Exam009_Aray.dll
